@@ -9,10 +9,10 @@
   
 > ### Regarding this mod
 >
-> This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are the property of Innersloth LLC.
+> This mod is not affiliated with Moe or also known as moe.dev on Discord and thank god for it. He is a little ball of anger. Proceed with caution. 
 <br>
 
-> Note: The website is still a Work In Progress, please bear with us - Moe 
+> Note: The website is still a Work In Progress, please bear with us - Moe / Thanks for the warning, Moe. Sorry guys, you won't hear from him again. Again, avoid Moe at all costs. Anyways, back to the code!
 </p>
 <p align="center">
 
